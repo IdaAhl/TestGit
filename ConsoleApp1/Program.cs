@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hej");
             Console.WriteLine("Hej");
-            Console.WriteLine("Hej igen!");
+         
             Console.WriteLine("Sparar i GitHub");
             
         }
